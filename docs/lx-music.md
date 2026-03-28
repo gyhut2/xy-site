@@ -1,0 +1,15 @@
+# LX Music and sourse
+
+- [GitHub - lyswhut/lx-music-desktop: 一个基于 electron 的音乐软件](https://github.com/lyswhut/lx-music-desktop)
+- [主页 | LX Music](https://docs.lxmusic.top/)
+- [落雪音源](https://www.alipan.com/s/2eZxiWJRMrH/folder/64c36df4368b4365344f4e2ba601b86abf2d7f07)
+- [六音](https://www.sixyin.com/)
+- [六音软件永久地址发布页，收藏我回家不迷路！](https://6yso.com/)
+- [洛雪音乐助手+六音自定义音源 v1.2.0-六音](https://www.sixyin.com/8498.html)
+- [洛雪音乐助手自定义Cookie版本](https://soso.lanzouw.com/b0fobnkyd#bznu)
+- [洛雪音乐-音源官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘](https://www.123pan.com/s/OF29-UCPxH.html?ref=yinghe.xyz)
+- [Releases · lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop/releases)
+- [项目首页 - LXMusic音源:lxmusic（洛雪音乐）全网最新最全音源 - GitCode](https://gitcode.com/guoyue2010/lxmusic-)
+- [洛雪音乐-音源官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘](https://www.123912.com/s/ICnzVv-viYgh)
+- [百度网盘分享](https://pan.baidu.com/s/1a_hNXm1x-biXAIqUAhc14Q?dp-logid=84896100181561510002&pwd=zrpr#/home/%2F%E5%85%AC%E5%BC%80/%2FBongoCat)
+- [GitHub - piko017/-LX-luoxue_yinyuan: 洛雪LX音乐音源](https://github.com/piko017/-LX-luoxue_yinyuan)
