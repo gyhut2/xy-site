@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://cqxy.qzz.io/index/</loc>
+        <loc>https://cqxy.qzz.io/xy-site/</loc>
       </url>
       <url>
-        <loc>https://cqxy.qzz.io/index/markdown/</loc>
+        <loc>https://cqxy.qzz.io/xy-site/markdown/</loc>
       </url>
       <url>
-        <loc>https://cqxy.qzz.io/index/favorites/</loc>
+        <loc>https://cqxy.qzz.io/xy-site/favorites/</loc>
       </url>
 </urlset>

@@ -23,7 +23,7 @@ site_author = "xy"
 
 # site_url 是您站点的规范 URL。在构建在线文档时应设置此项。
 # 了解更多：https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://cqxy.qzz.io/index"
+site_url = "https://cqxy.qzz.io/xy-site"
 
 # copyright 显示在页面页脚，可以包含 HTML 片段。
 #
