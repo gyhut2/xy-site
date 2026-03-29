@@ -1,3 +1,6 @@
+---
+icon: fontawesome/solid/bookmark
+---
 # 所有书签
 
 ## 🛠️ 系统工具

@@ -42,6 +42,8 @@ nav = [
  "index.md",
  "markdown.md",
  "favorites.md",
+ "How to write.md",
+ "about.md",
 ]
 
 # 通过 "extra_css" 选项，您可以添加自己的 CSS 样式，根据您的需求
