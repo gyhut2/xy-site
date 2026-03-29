@@ -29,7 +29,7 @@ icon: fontawesome/solid/circle-info
 ## Mar 28
  我又在HelloGithub上看到一个新的静态网站生成器[Zensical](https://zensical.org)，我又把上周的网站搬到这里来了
 !!!note
-    我感觉这个生成器比前面那个简单得多，语法也简单，也许是有经验了吧，[帮助文档](https://gyhut2.github.io/xy-site/site/How to write.md)（已汉化）
+    我感觉这个生成器比前面那个简单得多，语法也简单，也许是有经验了吧，[帮助文档](https://cqxy.qzz.io/xy-site/site/How%20to%20write/)（已汉化）
 ## Future
 下周再写
 
