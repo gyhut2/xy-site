@@ -40,9 +40,24 @@ Copyright &copy; 2026 xy
 # 了解更多：https://zensical.org/docs/setup/navigation/
 nav = [
  "index.md",
- "markdown.md",
- "favorites.md",
- "How to write.md",
+{"Bookmark" = [
+        "Bookmark/index.md",
+        "Bookmark/system-tools.md",
+        "Bookmark/minecraft.md",
+        "Bookmark/github.md",
+        "Bookmark/free-game.md",
+        "Bookmark/lx-music.md",
+        "Bookmark/other-music.md",
+        "Bookmark/others.md",
+]},
+{"How to Write" = [
+        "Markdown/How to write.md",
+        "Markdown/markdown.md",
+]},
+{"Class logs of 4"=[
+    "Class 4/index.md",
+    "Class 4/2026-03.md",
+]},
  "about.md",
 ]
 
@@ -69,7 +84,7 @@ nav = [
 [project.theme]
 
 # 将此更改为 "classic" 可使用传统的 Material for MkDocs 外观。
-#variant = "classic"
+variant = "modern"
 
 # Zensical 允许您覆盖特定的块、局部模板或整个模板，以及定义自己的模板。
 # 要执行此操作，请取消下面的 custom_dir 设置，并将其设置为存放
@@ -87,7 +102,7 @@ nav = [
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "images/favicon.png"
+favicon = "images/favicon.png"
 
 # Zensical 支持超过 60 种不同的语言。这意味着 Zensical 模板生成的标签和
 # 工具提示都会被翻译。"language" 选项允许您设置使用的语言。此语言
@@ -99,7 +114,7 @@ nav = [
 # 了解更多：
 # - https://zensical.org/docs/setup/language/
 #
-language = "en"
+language = "zh"
 
 # Zensical 提供许多功能开关，用于改变文档站点的行为。
 features = [
@@ -110,7 +125,7 @@ features = [
     # 如果您配置了仓库并开启此功能，Zensical 将为页面生成一个编辑按钮。
     # 这适用于常见的仓库托管服务。
     # https://zensical.org/docs/setup/repository/#content-actions
-    #"content.action.edit",
+    "content.action.edit",
 
     # 如果您配置了仓库并开启此功能，Zensical 将生成一个按钮，允许用户
     # 查看当前页面的 Markdown 源码。
@@ -184,7 +199,7 @@ features = [
 
     # 启用选项卡时，顶层章节在视口宽度超过 1220px 时会在页眉下方渲染为菜单层，在移动设备上保持不变。
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # 启用固定选项卡时，导航选项卡将锁定在页眉下方，滚动时始终保持可见。
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
@@ -256,9 +271,16 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "切换到亮色模式"
 
+[project.extra] 
 # ----------------------------------------------------------------------------
 # "extra" 部分包含各种杂项设置。
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+    [[project.extra.social]]
+    icon = "fontawesome/brands/github"
+    link = "https://github.com/gyhut2/xy-site"
+    name = "在 GitHub 上查看源码"
+
+    [[project.extra.social]]
+    icon = "fontawesome/brands/qq"
+    link = "/#"
+    name = "3995981608"

@@ -20,7 +20,7 @@ icon: fontawesome/solid/circle-info
 ## Jan 4
 制作一个春节倒计时主页
 ~~（唐人界面）~~
-> 》[查看](https://gyhut2.github.io/index_spring.html)
+> \>[查看](https://gyhut2.github.io/index_spring.html)
 ## Mar 22
 我在查看Classisland[^1] 文档时，无意中发现了他们的网站架构是VuePress[^2] ，于是我按照B站上的方法在本地部署了一个VuePress网站 ~~（原来ai写的主页真的是屎山代码，整整1200行）~~，但是弄了半天用不起，ai也不能像龙虾[^3] 那样帮忙，忙了半天才部署到Github
 [^1]:一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
@@ -30,6 +30,8 @@ icon: fontawesome/solid/circle-info
  我又在HelloGithub上看到一个新的静态网站生成器[Zensical](https://zensical.org)，我又把上周的网站搬到这里来了
 !!!note
     我感觉这个生成器比前面那个简单得多，语法也简单，也许是有经验了吧，[帮助文档](https://cqxy.qzz.io/xy-site/site/How%20to%20write/)（已汉化）
+我的第一篇文章也于今日完成
+~~（就是本篇）~~
 ## Future
-下周再写
+后面再写
 
