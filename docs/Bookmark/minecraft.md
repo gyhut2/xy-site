@@ -71,6 +71,7 @@
 - [Minecraft 字体.zipdata](https://wwwj.lanzouu.com/i2sLz1jn6k9e)
 - [Minecraft 字体.zipdata](https://wwwj.lanzouu.com/i2sLz1jn6k9e)
 - [MC 鼠标指针 | 作品文档](https://docs.youming.v6.army/notes/MC-%E9%BC%A0%E6%A0%87%E6%8C%87%E9%92%88.html)
+- [Minecraft : Summon Mob Generator : Gamer Geeks](https://www.gamergeeks.net/apps/minecraft/mob-generator)
 
 ## 材质
 - [梗体中文梗列表 - Teahouse-Studios/mcwzh-meme-resourcepack GitHub Wiki](https://github-wiki-see.page/m/Teahouse-Studios/mcwzh-meme-resourcepack/wiki/%E6%A2%97%E4%BD%93%E4%B8%AD%E6%96%87%E6%A2%97%E5%88%97%E8%A1%A8#:~:text=%E6%A2%97%E4%BD%93%E4%B8%AD%E6%96%87%E9%87%8C%E8%A1%8D%E7%94%9F%E7%9A%84%E6%A2%97%E6%9C%89)
@@ -164,6 +165,7 @@
 - [iterationT - Java版光影包 - MGC中文图形站](https://minegraph.cn/shaderpacks/12)
 - [夸克网盘分享](https://pan.quark.cn/s/03e383ecf06f#/list/share)
 - [Derivative - 光影下载](https://download.minegraph.cn/derivative/)
+- [Java版光影预设 - MGC中文图形站](https://www.minegraph.cn/profiles/)
 
 ## maps
 - [我的世界随机刷新大空岛地图分享_哔哩哔哩bilibili](https://www.bilibili.com/video/BV1U3411W7zx/)
