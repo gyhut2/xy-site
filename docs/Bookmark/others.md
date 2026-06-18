@@ -1,63 +1,81 @@
-# Others
+---
+icon: simple/evernote
+---
+# 📁 Others（杂项）
 
-- [[4K, 2160p] Windows 11 官方宣传片_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pgqbYJE19/)
-- [MCNav | MC导航网 | Minecraft 网址导航站 | MC工具大全](https://www.mcnav.net/)
-- [火星文转换器-火星文在线转换工具](https://www.qiwangming.com/hxw/)
-- [163网易免费邮-你的专业电子邮局](https://mail.163.com/)
-- [首页 - HelloGitHub](https://hellogithub.com/)
-- [哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/)
-- [《优势在我》_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1oq4y1Z7uT/?spm_id_from=333.337.search-card.all.click&vd_source=4d3d57b46a0b87ac2d5028d84af361ae)
-- [【4K60帧】倒放版_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1uT4y1P7CX?p=2)
-- [文心一言](https://yiyan.baidu.com/)
-- [Kimi Chat - 帮你看更大的世界](https://kimi.moonshot.cn/)
-- [猪八戒导航_一个实用的导航站](https://www.zbjdh.com/)
-- [百度地图](https://map.baidu.com/)
-- [每日必应壁纸 - DailyBing.com](https://dailybing.com/)
-- [[你的名字] 壁纸 4K 景物篇 - 哔哩哔哩](https://www.bilibili.com/read/cv14194354/?from=search&spm_id_from=333.337.0.0)
-- [天工AI-搜索、对话、写作、文档分析、画画、做PPT的全能AI助手](https://www.tiangong.cn/)
-- [爆传奇，一刀88888光柱，秒怪爆极品，满屏七彩光柱，直击灵魂的快感！高](https://wy.668wan.com/sgcb/b4ncrf/index.html?uid=gdtCS-66&suid=04&qz_gdt=sksgszt7aiaogzqyzmnq&xj_pos_type=5)
+> 各种杂项资源：AI 工具、导航站、浏览器扩展、实用小工具、视频下载等。
+
+---
+
+## 🤖 AI 助手
+
+| 工具 | 简介 | 链接 |
+|------|------|------|
+| 文心一言 | 百度 AI | [yiyan.baidu.com](https://yiyan.baidu.com/) |
+| Kimi Chat | 月之暗面 | [kimi.moonshot.cn](https://kimi.moonshot.cn/) |
+| 天工 AI | 搜索/对话/写作/画图/PPT | [tiangong.cn](https://www.tiangong.cn/) |
+| DeepSeek | 探索未至之境 | [chat.deepseek.com](https://chat.deepseek.com/) |
+| Ollama | 本地大模型运行 | [ollama.com](https://ollama.com/) |
+
+## 🌐 导航 & 聚合
+
+- [猪八戒导航](https://www.zbjdh.com/) — 实用导航站
 - [LKs 网站推荐合集](https://lkssite.vip/)
-- [懒盘(网盘)搜索 - 提供夸克网盘|阿里云盘|迅雷网盘的资源](https://www.lzpanx.com/)
-- [有趣网址之家 - 收藏全球最有趣的网站](https://youquhome.com/page/1/)
-- [梁平日报数字报-一版要闻](http://www.xepaper.com/lpb/)
-- [huawei.com.tw](https://huawei.com.tw/earth)
-- [Cheat Engine](https://www.cheatengine.org/)
-- [草料二维码解码器](https://cli.im/deqr#:~:text=%E5%85%8D%E8%B4%B9%E5%9C%A8%E7%BA%BF%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%A7%A3%E7%A0%81%E5%99%A8)
-- [软件下载网](https://www.soon321.com/)
-- [国家地理信息公共服务平台 天地图](https://www.tianditu.gov.cn/)
-- [Search · SteamDB](https://steamdb.info/search/)
-- [AI搜索引擎 - 为您提供智能、高准确度的搜索体验 | AIGC工具导航](https://www.aigc.cn/favorites/searchengine)
-- [OBSCN - 中文OBS教程及相关下载 OBS软件](http://obs.cn/)
-- [文叔叔 - 传文件，找文叔叔（大文件、永不限速）](https://www.wenshushu.cn/)
-- [剪映](https://pan.quark.cn/s/055e40b25b28#/list/share)
-- [Ollama](https://ollama.com/)
-- [Cheat Engine安装&汉化教程 - 哔哩哔哩](https://www.bilibili.com/opus/987697832219639846)
-- [论坛 - Powered by Discuz!](https://bbs.steamtools.net/)
-- [有趣网址之家 - 收藏全球最有趣的网站](https://youquhome.com/page/1)
-- [b站弹幕BulletCommentDisplay_v1.0.zip   bcd1](https://wormwake.lanzout.com/iogXo1gtg8de)
-- [【活全家程序】构史句子生成器︒_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Nd9KYMEkS/?spm_id_from=333.1007.tianma.2-1-4.click&vd_source=783e20333a08a56783c902ab3ce4923b)
-- [如何以正确的姿势下载全站的视频弹幕（包括电影和番剧）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ca411e7au/?spm_id_from=333.337.search-card.all.click&vd_source=783e20333a08a56783c902ab3ce4923b)
-- [DeepSeek - 探索未至之境](https://chat.deepseek.com/)
-- [GameFreer资源网 – 第 157 页 – 永久免费的高质量游戏网站](https://www.gamefreer.com/page/157/)
-- [[GameTame]如何获得Minecraft激活码（礼品代码）教程_哔哩哔哩bilibili_我的世界_演示](https://www.bilibili.com/video/BV12VuizQEhg/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=783e20333a08a56783c902ab3ce4923b)
-- [PanSou 盘搜](https://so.252035.xyz/)
-- [不言不厌-分享实用资源](https://buyanbuyan.com/)
-- [【铁路软件】全自动铁路客运广播系统Beta1.3发布！ - 铁道世界 - Carrilson的个人站](https://carrilson.com/?id=7)
-- [Microsoft 365太贵？手把手教你免费安装激活 - 哔哩哔哩](https://www.bilibili.com/opus/893836428900827156)
+- [有趣网址之家](https://youquhome.com/page/1/) — 全球最有趣的网站
+- [懒盘搜索](https://www.lzpanx.com/) — 夸克/阿里/迅雷网盘搜索
+- [PanSou 盘搜](https://so.252035.xyz/) — 网盘搜索
+- [不言不厌](https://buyanbuyan.com/) — 实用资源分享
+- [MCNav](https://www.mcnav.net/) — Minecraft 网址导航
+- [AIGC 工具导航](https://www.aigc.cn/favorites/searchengine) — AI 搜索引擎
+
+## 📺 视频 & 下载
+
+- [哔哩哔哩](https://www.bilibili.com/)
+- [B站视频下载工具 Bilidown](https://www.52pojie.cn/thread-1917146-1-1.html) — 吾爱破解
+- [b站弹幕下载](https://wormwake.lanzout.com/iogXo1gtg8de) — 压缩包（密码：bcd1）
+- [正确姿势下载弹幕](https://www.bilibili.com/video/BV1Ca411e7au/) — B 站教程
+- [AntiRick_rollPopup](https://wormwake.lanzout.com/iMGVt1tg62uf) — 防弹窗（密码：3sve）
+
+## 🛠️ 实用工具
+
+- [火星文转换器](https://www.qiwangming.com/hxw/)
+- [草料二维码解码器](https://cli.im/deqr)
+- [格式器 Formalizer](https://goblin.tools/Formalizer) — 文本格式化
+- [ICO 图标制作](https://www.ico51.cn/) — 在线透明图标
+- [Cheat Engine](https://www.cheatengine.org/) — 内存修改器
+- [Cheat Engine 汉化教程](https://www.bilibili.com/opus/987697832219639846)
+- [SteamDB](https://steamdb.info/search/) — Steam 数据库搜索
+- [论坛 - SteamTools](https://bbs.steamtools.net/)
+- [文叔叔](https://www.wenshushu.cn/) — 大文件永久不限速传输
+- [Remove Paywalls](https://paywallbuster.com/) — 新闻付费墙突破
+- [SR 思锐](https://app.sr-studio.cn/) — 产品发布页
+- [Type Words 词文记](https://typewords.cc/) — 单词跟打 & 文章跟打
+
+## 🎨 创意 & 趣味
+
+- [Ugly Avatar](https://txstc55.github.io/ugly-avatar/) — 丑头像生成器
 - [性压抑指数计算器](https://xyy.gta4.bio/)
-- [影视飓风](https://www.ysjf.com/home)
-- [Sora官网](https://www.zh-sora.com/)
-- [Remove Paywalls from News Articles Instantly | PaywallBuster](https://paywallbuster.com/)
-- [redzone.pptx_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1o8qRqR4UeuMXWt3zUTBt-w)
-- [首页 | Tampermonkey](https://www.tampermonkey.net/index.php)
-- [B站视频下载工具 Bilidown 1.1.3 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn](https://www.52pojie.cn/thread-1917146-1-1.html)
-- [图标下载,ICON(PNG/ICO/SVG/矢量) easyicon 免费下载 - 爱给网](https://www.aigei.com/icon/class/)
-- [Free Download Manager - 從網路下載任何東西](https://www.freedownloadmanager.org/zh/)
-- [在线生成透明ICO图标——ICO图标制作](https://www.ico51.cn/)
-- [又要重装系统站 - 精品系统包分享](https://www.yyczxt.com/)
-- [格式器- GoblinTools --- Formalizer - GoblinTools](https://goblin.tools/Formalizer)
-- [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
-- [AntiRick_rollPopup.exe  3sve](https://wormwake.lanzout.com/iMGVt1tg62uf)
-- [清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/#)
-- [SR思锐 产品发布页](https://app.sr-studio.cn/)
-- [Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/)
+- [影视飓风](https://www.ysjf.com/home) — 影视技术频道
+- [Sora 官网](https://www.zh-sora.com/)
+- [华为地球](https://huawei.com.tw/earth)
+- [红 PPT](https://pan.baidu.com/s/1o8qRqR4UeuMXWt3zUTBt-w) — 百度网盘
+
+## 📰 资讯 & 地图
+
+- [百度地图](https://map.baidu.com/)
+- [国家地理信息服务平台 天地图](https://www.tianditu.gov.cn/)
+- [梁平日报数字报](http://www.xepaper.com/lpb/)
+- [163 网易邮箱](https://mail.163.com/)
+
+## 📚 学习 & 社区
+
+- [HelloGitHub](https://hellogithub.com/) — 有趣开源项目
+- [清华大学开源镜像站](https://mirrors.tuna.tsinghua.edu.cn/#)
+
+## 🎬 视频内容
+
+- [Windows 11 官方宣传片](https://www.bilibili.com/video/BV1pgqbYJE19/) — 4K 2160p
+- [《优势在我》](https://www.bilibili.com/video/BV1oq4y1Z7uT/)
+- [倒放版 4K60 帧](https://www.bilibili.com/video/BV1uT4y1P7CX?p=2)
+- [构史句子生成器](https://www.bilibili.com/video/BV1Nd9KYMEkS/)
+- [你的名字 4K 壁纸](https://www.bilibili.com/read/cv14194354/)

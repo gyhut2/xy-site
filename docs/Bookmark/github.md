@@ -1,52 +1,83 @@
-# Github
+---
+icon: simple/github
+---
+# 🐙 GitHub & 开源项目
 
-- [GitHub: Let's build from here · GitHub](https://github.com/)
-- [Github Proxy 文件代理加速](https://github.akams.cn/)
-- [GitHub - lalakii/MouseClickTool: 简单好用的鼠标连点器，体积小巧，性能好好的~鼠标连点器，当前版本体积仅16KB。](https://github.com/lalakii/MouseClickTool)
-- [Releases · Teahouse-Studios/mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/releases)
-- [GitHub - xuanli199/weekly: 保存玄离199每周科技补全中提到的各种软件和项目](https://github.com/xuanli199/weekly)
-- [GitHub - 521xueweihan/HelloGitHub: :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.](https://github.com/521xueweihan/HelloGitHub)
-- [GitHub - sz3/cimbar：color-icon-matrix barcodes.概念验证实施。 --- GitHub - sz3/cimbar: color-icon-matrix barcodes. Proof of concept implementation.](https://github.com/sz3/cimbar)
-- [Release SAI Free · pjy612/SteamManifestCache · GitHub](https://github.com/pjy612/SteamManifestCache/releases/tag/Free)
-- [Release Steam入库助手 · BlankTMing/ManifestAutoUpdate · GitHub](https://github.com/BlankTMing/ManifestAutoUpdate/releases/tag/Steam_%E5%85%A5%E5%BA%93)
-- [steamcommunity 302 Ver.12.1.46 – Dogfight360](https://www.dogfight360.com/blog/686/)
-- [SteamTools · pjy612/SteamManifestCache Wiki · GitHub](https://github.com/pjy612/SteamManifestCache/wiki/SteamTools)
-- [GitHub - war-nightmare/DjangoSchedule2: A software for displaying schedule and time on the school Seewo whiteboard.](https://github.com/war-nightmare/DjangoSchedule2)
-- [Tichau/FileConverter: File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.](https://github.com/Tichau/FileConverter)
-- [zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。](https://github.com/zhongyang219/TrafficMonitor)
-- [GitHub - erikwiffin/0.30000000000000004: Floating Point Math Examples](https://github.com/erikwiffin/0.30000000000000004)
-- [idootop/MagicMirror: 零门槛 AI 换脸应用 - HelloGitHub](https://hellogithub.com/repository/9d0e987477ea433a9079f6d27a22202f)
-- [PojavLauncherTeam/PojavLauncher: Minecraft 游戏的 Java 启动器 - HelloGitHub](https://hellogithub.com/repository/d09df543170848bab4391fd86d7570bd)
-- [guozhigq/pilipala: 开源的 bilibili 第三方客户端 - HelloGitHub](https://hellogithub.com/repository/86b30b2acb224d7b9da2e7a0282bf707)
-- [GitHub - obsproject/obs-studio: OBS Studio - Free and open source software for live streaming and screen recording](https://github.com/obsproject/obs-studio)
-- [GitHub - brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator/releases/tag/v7.1.0)
-- [An interesting open source chat application | fiora docs](https://yinxin630.github.io/fiora/)
-- [GitHub - vladelaina/Catime: A very useful timer (Pomodoro Clock).[一款非常好用的计时器(🍅番茄时钟)]](https://github.com/vladelaina/Catime)
-- [GitHub - shrimqy/Sefirah: Phone Link / KDE Connect alternative](https://github.com/shrimqy/Sefirah)
-- [GitHub - shrimqy/Sefirah-Android: Phone link / KDE Connect alternative](https://github.com/shrimqy/Sefirah-Android)
-- [网抑云音乐 | AlgerKong ｜ AlgerMusicPlayer](http://mc.alger.fun/#/)
-- [kuroni/bongocat-osu: Bongo Cat 原版](https://github.com/kuroni/bongocat-osu)
-- [ayangweb/BongoCat: BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！](https://github.com/ayangweb/BongoCat)
-- [GitHub - PKUFlyingPig/cs-self-learning: 计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
-- [FREEMEDIAHECKYEAH · fmhy/FMHY Wiki · GitHub](https://github.com/fmhy/FMHY/wiki/FREEMEDIAHECKYEAH)
-- [Release 2025.1 · TranslucentTB/TranslucentTB · GitHub](https://github.com/TranslucentTB/TranslucentTB/releases/tag/2025.1)
-- [An interesting open source chat application | fiora docs](https://yinxin630.github.io/fiora/)
-- [GitHub - brunodev85/winlator: Android application for running Windows applications with Wine and Box86/Box64](https://github.com/brunodev85/winlator/releases/tag/v7.1.0)
-- [GitHub - game1024/OpenSpeedy: 🎮 An open-source game speed modifier.[一款开源的游戏变速器]](https://github.com/game1024/OpenSpeedy)
-- [GitHub - ntdevlabs/tiny11builder: Scripts to build a trimmed-down Windows 11 image.](https://github.com/ntdevlabs/tiny11builder)
-- [GitHub - zyedidia/eget: Easily install prebuilt binaries from GitHub.](https://github.com/zyedidia/eget)
-- [GitHub - pages-cms/pages-cms: The No-Hassle CMS for Static Sites Generators](https://github.com/pages-cms/pages-cms)
-- [GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.](https://github.com/SteamRE/DepotDownloader)
-- [Release v1.2.309.0 · jayfunc/BetterLyrics · GitHub](https://github.com/jayfunc/BetterLyrics/releases/tag/v1.2.309.0)
+> 精选 GitHub 上的实用开源项目、代理加速、Steam 工具和教学软件。
 
-## Schedule
-- [【班级电脑软件推荐】电教福音！自制电子桌面课程表_哔哩哔哩_bilibili](https://github.com/EnderWolf006/ElectronClassSchedule)
-- [GitHub - EnderWolf006/ElectronClassSchedule: 电子桌面课程表，可用于学校电子白板，交流QQ群：951996041](https://github.com/EnderWolf006/ElectronClassSchedule/releases/tag/latest)
-- [GitHub - ClassIsland/ClassIsland: 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。](https://github.com/ClassIsland/ClassIsland)
-- [GitHub - wjj-8283/ClassIsland-NeZha-Theme](https://github.com/wjj-8283/ClassIsland-NeZha-Theme)
-- [下载 ClassIsland | ClassIsland](https://classisland.tech/download)
-- [Class Widgets | 全新桌面课表 - Class Widgets 下载](https://cw.rinlit.cn/)
-- [首页 | Awesome-Class-Softwares](https://jursin.github.io/Awesome-Class-Softwares-Web/)
+---
+
+## 🔗 代理 & 加速
+
+- [GitHub](https://github.com/) — 全球最大的代码托管平台
+- [Github Proxy 加速](https://github.akams.cn/) — 文件代理加速
+
+## 🎮 Steam 相关
+
+- [Release SAI Free](https://github.com/pjy612/SteamManifestCache/releases/tag/Free) — Steam 入库助手
+- [Release Steam 入库助手](https://github.com/BlankTMing/ManifestAutoUpdate/releases/tag/Steam_%E5%85%A5%E5%BA%93)
+- [SteamTools Wiki](https://github.com/pjy612/SteamManifestCache/wiki/SteamTools)
+- [Steamcommunity 302](https://www.dogfight360.com/blog/686/) — Ver.12.1.46
+- [DepotDownloader](https://github.com/SteamRE/DepotDownloader) — Steam 仓库下载器
+- [SteamGridDB](https://www.steamgriddb.com/) — Steam 游戏封面下载
+
+## 💬 社交 & 聊天
+
+- [fiora](https://yinxin630.github.io/fiora/) — 开源聊天应用
+- [Sefirah](https://github.com/shrimqy/Sefirah) — Phone Link / KDE Connect 替代
+- [Sefirah-Android](https://github.com/shrimqy/Sefirah-Android) — Android 版
+- [guozhigq/pilipala](https://github.com/guozhigq/pilipala) — 开源 B 站第三方客户端
+
+## 🎵 音乐
+
+- [BetterLyrics](https://github.com/jayfunc/BetterLyrics/releases/tag/v1.2.309.0) — 歌词插件
+- [网抑云音乐](http://mc.alger.fun/#/) — AlgerMusicPlayer
+
+## 🖱️ 效率 & 工具
+
+| 项目 | 简介 | 链接 |
+|------|------|------|
+| MouseClickTool | 简易鼠标连点器，16KB | [GitHub](https://github.com/lalakii/MouseClickTool) |
+| Catime | 番茄时钟计时器 | [GitHub](https://github.com/vladelaina/Catime) |
+| OpenSpeedy | 开源游戏变速器 | [GitHub](https://github.com/game1024/OpenSpeedy) |
+| TranslucentTB | 任务栏透明工具 | [GitHub](https://github.com/TranslucentTB/TranslucentTB/releases/tag/2025.1) |
+| eget | GitHub 二进制快速安装 | [GitHub](https://github.com/zyedidia/eget) |
+| pages-cms | 静态站点 CMS | [GitHub](https://github.com/pages-cms/pages-cms) |
+
+## 🎨 创意 & 趣味
+
+| 项目 | 简介 | 链接 |
+|------|------|------|
+| cimbar | 彩色图标矩阵条形码 | [GitHub](https://github.com/sz3/cimbar) |
+| MagicMirror | AI 换脸应用 | [GitHub](https://github.com/idootop/MagicMirror) |
+| BongoCat | 可爱桌面宠物 | [GitHub](https://github.com/ayangweb/BongoCat) · [原版](https://github.com/kuroni/bongocat-osu) |
+| Fiora | 开源聊天应用 | [Docs](https://yinxin630.github.io/fiora/) |
+
+## 📚 教育 & 学习
+
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) — 分享有趣、入门级开源项目
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) — 计算机自学指南
+- [weekly](https://github.com/xuanli199/weekly) — 玄离 199 每周科技补全软件合集
+- [FREEMEDIAHECKYEAH](https://github.com/fmhy/FMHY/wiki/FREEMEDIAHECKYEAH) — 免费媒体资源汇总
+
+## 🎬 创作 & 开发
+
+- [OBS Studio](https://github.com/obsproject/obs-studio) — 免费直播 & 录屏
+- [Winlator](https://github.com/brunodev85/winlator/releases/tag/v7.1.0) — Android 运行 Windows 应用
+
+## 📋 Schedule（课表/电教）
+
+- [ElectronClassSchedule](https://github.com/EnderWolf006/ElectronClassSchedule) — 电子桌面课程表
+- [ClassIsland](https://github.com/ClassIsland/ClassIsland) — 班级多媒体课表信息工具
+- [ClassIsland-NeZha 主题](https://github.com/wjj-8283/ClassIsland-NeZha-Theme)
+- [ClassIsland 下载](https://classisland.tech/download)
+- [Class Widgets](https://cw.rinlit.cn/) — 全新桌面课表
+- [Awesome-Class-Softwares](https://jursin.github.io/Awesome-Class-Softwares-Web/) — 优秀班级软件集合
 - [智教联盟论坛](https://forum.smart-teach.cn/)
-- [GitHub - ExamAware/ExamSchedule: 静态版本的考试看板，可自行部署](https://github.com/examaware/ExamSchedule)
-- [GitHub - HelloGaoo/SeevvoDownloader: SEEVVO全家桶一剑下崽弃 · GitHub](https://github.com/HelloGaoo/SeevvoDownloader)
+- [ExamSchedule](https://github.com/examaware/ExamSchedule) — 静态考试看板
+- [SEEVVO 全家桶下载](https://github.com/HelloGaoo/SeevvoDownloader)
+
+## 🎮 Minecraft
+
+- [mcwzh-meme-resourcepack](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/releases) — 梗体中文材质包
+- [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) — MC Java 启动器（HelloGitHub）

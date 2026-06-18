@@ -1,55 +1,85 @@
-# Free Game
+---
+icon: simple/steam
+---
+# 🎮 免费游戏 & 在线小游戏
 
-- [资源共享站shaqzone - 单机破解游戏、二次元全站免费，尽在资源共享站shaqzone！ - 资源共享站shaqzone - 单机破解游戏、二次元全站免费，尽在资源共享站shaqzone！](https://www.shaqzone.com/)
-- [Pac-Man . 吃豆人游戏](https://passer-by.com/pacman/)
-- [s l o w   r o a d s](https://slowroads.io/)
-- [扫雷游戏在线](https://ohminesweeper.online/)
-- [The Password Game](https://neal.fun/password-game/)
-- [Neal.fun --- Neal.fun](https://neal.fun/)
-- [让我们解决这个问题 --- Let's Settle This](https://neal.fun/lets-settle-this/)
-- [Poki (宝玩) - 免费在线小游戏 - 马上玩！](https://poki.com/zh)
-- [Free Online Games on CrazyGames | Play Now!](https://www.crazygames.com/)
-- [Play Lines FRVR - Free Dots and Lines Puzzle Game](https://lines.frvr.com/)
-- [任天堂GBA经典游戏在线玩 - return8090.com官网](https://www.return8090.com/gbaonline/)
-- [在线玩超级马里奥游戏](https://supermario.net/zh/)
-- [Super Mario Game Play Online](https://supermario.net/)
-- [在线模拟器游戏 | EMU666](https://www.emu666.com/)
+> 免费在线小游戏、模拟器、独立游戏、Steam 资源和趣味网站。
+
+---
+
+## 🌐 在线小游戏
+
+| 游戏 | 简介 | 链接 |
+|------|------|------|
+| Pac-Man | 吃豆人 | [passer-by.com](https://passer-by.com/pacman/) |
+| Slow Roads | 开放世界驾驶 | [slowroads.io](https://slowroads.io/) |
+| 扫雷 | 在线扫雷 | [ohminesweeper.online](https://ohminesweeper.online/) |
+| Password Game | 密码游戏 | [neal.fun/password-game/](https://neal.fun/password-game/) |
+| Let's Settle This | 解决争论 | [neal.fun/lets-settle-this/](https://neal.fun/lets-settle-this/) |
+| Lines FRVR | 连连看 | [lines.frvr.com](https://lines.frvr.com/) |
+| Level Devil | 闯关游戏 | [leveldevil.vip](https://leveldevil.vip/zh) |
+| Subway Surfers | 地铁跑酷 | [subway-surfers.gg](https://subway-surfers.gg/zh-CN/default_game) |
+| Jazz vs Waffles | AI 派对游戏 | [jazzvswaffles.com](https://www.jazzvswaffles.com/) |
+| Euclidea | 几何解谜 | [euclidea.xyz](https://www.euclidea.xyz/en/game/) |
+| Make a Nod | 节奏点头 | [nodtotherhythm.com](https://nodtotherhythm.com/make) |
+| 非线性列车 | 铁路模拟 | [juij.fun](https://juij.fun/) |
+| 中午吃什么 | 选择困难症 | [chishenme.xyz](https://chishenme.xyz/) |
+
+## 🕹️ 游戏平台 & 聚合
+
+- [Neal.fun](https://neal.fun/) — 创意网页合集
+- [Poki](https://poki.com/zh) — 免费在线小游戏
+- [CrazyGames](https://www.crazygames.com/) — 免费在线游戏
+- [itch.io](https://itch.io/) — 独立游戏下载
+- [老男人游戏网](https://www.oldmantvg.net/) — 怀旧游戏
+- [GameTame](https://gametame.com/?join=2416979) — 赚免费礼品卡 & Steam 游戏
+- [Switch520](https://www.gamer520.com/) — Switch 资源
+
+## 🎮 模拟器 & 复古游戏
+
+- [任天堂 GBA 在线](https://www.return8090.com/gbaonline/) — GBA 经典游戏
+- [超级马里奥在线](https://supermario.net/zh/) — 在线玩马里奥
+- [EMU666](https://www.emu666.com/) — 在线模拟器合集
 - [菜虚鲲跳跳乐](http://jlh.125ks.cn/cxk/dinogame/)
-- [Life Restart](https://liferestart.syaro.io/public/index.html)
+- [桌游合集](https://game.hullqin.cn) — 在线桌游
+
+## 🎮 模拟经营 & 模拟游戏
+
+- [Life Restart](https://liferestart.syaro.io/public/index.html) — 人生重开模拟器
+- [Escape Road](https://unblockedescaperoads.com/#game) — 汽车追逐
+- [Only Humans](https://loomnorth.itch.io/only-humans) — itch.io 独立游戏
+- [黑神话抢先版](https://pan.quark.cn/s/99a55423d3d5#/list/share/69f457a762bc4012acd464d53403507c-%E5%B0%8F%E9%B8%AD%E9%B8%AD%E4%B8%B6Game) — 夸克网盘
+- [城市天际线 DLC](https://pan.baidu.com/s/1LAaFwy-mkEgy3IPib7f3eg?pwd=36mc) — 百度网盘（密码：36mc）
+- [遨游中国 2 1.42 重制](https://www.bilibili.com/video/BV1afgDz3En3/) — 欧卡 2 教程
+- [欧卡 2 重庆地图](https://www.bilibili.com/video/BV1Kv4y1F7Hk/) — 下载安装教程
+
+## 🛠️ Steam 工具 & 资源
+
+- [DepotDownloader](https://github.com/SteamRE/DepotDownloader) — Steam 仓库下载
+- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) — Steam 创意工坊下载器
+- [SteamGridDB](https://www.steamgriddb.com/) — 游戏封面图
+- [SteamDB](https://steamdb.info/search/) — Steam 数据库搜索
+- [CubeCity](https://github.com/hexianWeb/CubeCity) — Three.js 城市建造
+- [preserve-cd](https://github.com/skywind3000/preserve-cd) — 游戏保护计划
+- [SMAPILoader](https://github.com/NRTnarathip/SMAPILoader) — SMAPI 加载器
+
+## 🎵 音乐游戏
+
+- [osu!](https://osu.ppy.sh/) — 节奏音乐游戏
+
+## 📦 资源站
+
+- [shaqzone](https://www.shaqzone.com/) — 单机破解 & 二次元
+- [言庭资源](https://yant.top/)
+- [GameFreer](https://www.gamefreer.com/page/157/) — 免费高质量游戏
+- [夸克网盘](https://pan.quark.cn/s/d8673ff74bd9) — 游戏资源
+
+## 🤖 AI & 趣味
+
+- [Viggle AI](https://viggle.ai/m-home) — AI 视频生成
+- [图寻](https://tuxun.fun/) — 探索世界，找到你
+- [Userscript.Zone](https://www.userscript.zone/) — 用户脚本
+- [Ugly Avatar](https://txstc55.github.io/ugly-avatar/) — 丑头像生成
+- [Jdenticon](https://jdenticon.com/) — 开源 identicon 生成
 - [pcstory.fun](https://www.pcstory.fun/)
-- [下载最新的独立游戏-itch.io --- Download the latest indie games - itch.io](https://itch.io/)
-- [夸克网盘分享](https://pan.quark.cn/s/d8673ff74bd9#/list/share)
-- [Escape Road Unblocked | Play Free Online Car Chase Game](https://unblockedescaperoads.com/#game)
-- [https://github.com/NRTnarathip/SMAPILoader](https://github.com/NRTnarathip/SMAPILoader)
-- [遨游中国2 1.42重制版 免费分享【附带链接】_欧洲卡车模拟2](https://www.bilibili.com/video/BV1afgDz3En3/?spm_id_from=333.337.search-card.all.click&vd_source=783e20333a08a56783c902ab3ce4923b)
-- [欧卡2重庆地图mod，遨游重庆免费下载安装教程_游戏热门视频](https://www.bilibili.com/video/BV1Kv4y1F7Hk/?spm_id_from=333.788.recommend_more_video.9&vd_source=783e20333a08a56783c902ab3ce4923b)
-- [Only Humans by loomnorth](https://loomnorth.itch.io/only-humans)
-- [Subway Surfers（地铁跑酷） - 免费在线游戏！](https://subway-surfers.gg/zh-CN/default_game)
-- [Level Devil - 在线玩Level Devil](https://leveldevil.vip/zh)
-- [非线性列车 — By. Juij](https://juij.fun/)
-- [Jazz vs Waffles | AI-Powered Party Game - Blank Mode Games](https://www.jazzvswaffles.com/)
-- [Euclidea](https://www.euclidea.xyz/en/game/)
-- [黑神话抢先版](https://pan.quark.cn/s/99a55423d3d5#/list/share/69f457a762bc4012acd464d53403507c-%E5%B0%8F%E9%B8%AD%E9%B8%AD%E4%B8%B6Game)
-- [图寻 - 探索世界，找到你](https://tuxun.fun/)
-- [edge专用surf](edge://surf/)
-- [跟着节奏点头 --- Make a Nod to the Rhythm](https://nodtotherhythm.com/make)
-- [首页 | Userscript.Zone](https://www.userscript.zone/?utm_source=tm.net&utm_medium=index)
-- [老男人游戏网 | OldmanTVG.net](https://www.oldmantvg.net/)
-- [言庭资源分享](https://yant.top/)
-- [中午吃什么](https://chishenme.xyz/)
-- [GameTame.com: Earn Free Gift Cards & Steam Games](https://gametame.com/?join=2416979)
-- [呃嗯！呼～❤呃啊～哼！！呃嗯哈嗯～啊](https://msbt.seku.su/)
-- [城市天际线dlc.zip_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1LAaFwy-mkEgy3IPib7f3eg?pwd=36mc)
-- [Viggle AI](https://viggle.ai/m-home)
-- [城市天际线dlc.zip_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1LAaFwy-mkEgy3IPib7f3eg?pwd=36mc)
-- [BongoCat_免费高速下载|百度网盘-分享无限制](https://pan.baidu.com/s/1a_hNXm1x-biXAIqUAhc14Q?pwd=zrpr#list/path=%2F)
-- [Switch520](https://www.gamer520.com/)
-- [Jdenticon - Open source identicon generator](https://jdenticon.com/)
-- [osu](https://osu.ppy.sh/)
-- [GitHub - SteamRE/DepotDownloader: Steam depot downloader utilizing the SteamKit2 library.](https://github.com/SteamRE/DepotDownloader)
-- [imwaitingnow/WorkshopDL: WorkshopDL - The Best Steam Workshop Downloader](https://github.com/imwaitingnow/WorkshopDL)
-- [Home - SteamGridDB](https://www.steamgriddb.com/)
-- [GitHub - hexianWeb/CubeCity: A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)](https://github.com/hexianWeb/CubeCity)
-- [桌游合集 - game.hullqin.cn](https://game.hullqin.cn)
-- [蒸汽游戏宝库 - 高质量Steam单机游戏下载站](https://www.steambk.com)
-- [skywind3000/preserve-cd: Game Preservation Project](https://github.com/skywind3000/preserve-cd)
+- [msbt.seku.su](https://msbt.seku.su/) — 趣味网站
